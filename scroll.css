@@ -1,0 +1,36 @@
+
+
+.work-section{
+    width:100%;
+    height:300vh;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+}
+
+
+
+.ingredient-images{
+    width:400px;
+    left:calc(50%-400px);
+    height:530px;
+    top:420px;
+}
+
+/* section{
+  min-height: 100vh;    
+} */
+
+  
+.content_field{
+  font-size: 20px;
+  background-color: black;
+  color: #fff;
+  line-height: 32px;
+  padding: 50px 20px;  
+  position: abolsolute;
+}
+
+  
